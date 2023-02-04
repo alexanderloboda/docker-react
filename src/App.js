@@ -15,10 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React.
         </a>
       </header>
-      <p className="App-intro">Hi there!</p>
+      <p className="App-intro">I was changed on the Feature branch.</p>
     </div>
   );
 }
